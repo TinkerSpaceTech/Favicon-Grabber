@@ -3,11 +3,6 @@
 
 A lightweight, hassle-free API to fetch website favicons instantly. No authentication required.
 
-Usage
-
-Simply append your target domain to our base URL:
-
-
 
 ## Usage
 
